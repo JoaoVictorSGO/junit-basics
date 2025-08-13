@@ -21,6 +21,6 @@ Inclui **10 testes unitários** cobrindo casos válidos e inválidos, utilizando
 ---
 
 ## 🚀 Como executar
-1. Clone este repositório:
+ Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
